@@ -36,7 +36,7 @@ public class HomeWork1 {
         compareNumbers();
     }
 
-//    Упражнение 2
+    //Упражнение 2
     public static void printThreeWords() {
         System.out.println("Orange");
         System.out.println("Banana");
