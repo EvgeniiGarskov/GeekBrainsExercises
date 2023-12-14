@@ -3,7 +3,7 @@ package Java2.Lesson1;
 public class Treadmill extends Obstacles {
 
     int distance;
-//
+
     public Treadmill(int distance) {
         this.distance = distance;
     }
